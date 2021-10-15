@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erickericki
-- 👀 I’m interested in optics
-- 🌱 I’m currently learning physics
-- 💞️ I’m looking to collaborate on optic simulation
+- 👀 I’m interested in optics, programation and data science
+- 🌱 I’m currently learning physics and 
+- 💞️ I’m looking to collaborate on optic simulation, programation and data science
 - 📫 How to reach me ...
 
 <!---
